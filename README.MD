@@ -12,7 +12,7 @@ You need to be global Admin in your tenant to be able to delete AppPackages
 ## Run
 
 You can run from commandline:
->> node index.js <clientId> <TenantId> <AppName> <Version>
+>> node index.js clientId TenantId AppName (Version)
 
 The script will filter on the AppName and optional on Version.
 
